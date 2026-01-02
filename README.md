@@ -1,4 +1,4 @@
-# 📝 ruby-notes (CLI)
+# 📝 Notes Creator
 
 A tiny command-line tool for creating dated Markdown notes using Ruby.
 
